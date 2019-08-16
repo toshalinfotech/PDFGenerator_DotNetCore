@@ -1,0 +1,63 @@
+﻿/*@import url('https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900|Montserrat:100,200,300,400,500,600,700,800,900&display=swap');*/
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+	height: 200px;
+    background: transparent url(images/logo.png) no-repeat center center;
+}
+
+.mytext {
+	font-size: 12px;
+    line-height: 16px;
+    font-weight: 300;
+    color: #20acb6;
+	text-align: justify;
+	padding: 25px;
+    display: block;
+}
+
+.mytext1 {
+	font-size: 12px;
+    line-height: 16px;
+    font-weight: 300;
+    color: red;
+	text-align: justify;
+	padding: 25px;
+    display: block;
+}
+
+p, .Normal {
+    padding: 0;
+    margin: 0 0 20px 0;
+    color: #666666;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.Wrapper {
+    padding: 0 0 42px 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Segoe UI",Arial,Helvetica,sans-serif;
+    font-weight: 600;
+    color: #ff5500;
+    padding: 0;
+    margin: 0 0 20px 0;
+}
+
+h2 {
+    font-size: 28px;
+    line-height: 30px;
+}
+
+.title {
+    color: #000;
+}
